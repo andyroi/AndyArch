@@ -1,8 +1,13 @@
 # dotfiles
 Installation needed before using .config
 
+List:
+alacritty
 picom
-
+ranger 
+yay
 polybar
-
-yay 
+xpad
+neofetch
+redshift
+feh --for images
