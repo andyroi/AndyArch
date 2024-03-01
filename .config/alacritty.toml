@@ -1,0 +1,15 @@
+import = [
+     "~/.config/alacritty/themes/themes/catppuccinn_frappe.toml"
+]
+
+[font]
+size = 8.0
+normal.family = "Source Code Pro"
+bold.family = "Source Code Pro"
+
+[window]
+opacity = 0.98
+decorations = "full"
+padding.x = 10
+padding.y = 10
+
