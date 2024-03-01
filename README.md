@@ -1,2 +1,6 @@
 # dotfiles
-my personal arch files 
+Installation needed before using .config
+
+picom
+polybar
+yay 
