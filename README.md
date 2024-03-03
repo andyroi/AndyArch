@@ -1,5 +1,12 @@
-# Introdcution
+# Introduction
 * Current Arch linux for andyroi, saved files and mainly used to transfer to 500gb ssd
+
+# Laptop
+* Currently using a Thinkpad X200T
+* Laptops
+  ** Thinkpad X530
+  ** Thinkpad T480
+  ** Dell XPS 13
 
 ## dotfiles
 * Installation needed before using .config, and make sure to apply the i3 config file as well
