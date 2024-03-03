@@ -1,7 +1,7 @@
 # Introduction
 * Current Arch linux for andyroi, saved files and mainly used to transfer to 500gb ssd
 
-# Laptop
+## Laptop
 * Currently using a Thinkpad X200T
 * Laptops
   * Thinkpad X530
