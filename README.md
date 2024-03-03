@@ -4,9 +4,9 @@
 # Laptop
 * Currently using a Thinkpad X200T
 * Laptops
-  ** Thinkpad X530
-  ** Thinkpad T480
-  ** Dell XPS 13
+  * Thinkpad X530
+  * Thinkpad T480
+  * Dell XPS 13
 
 ## dotfiles
 * Installation needed before using .config, and make sure to apply the i3 config file as well
